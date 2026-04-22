@@ -1,0 +1,1 @@
+ALTER TABLE "tasks" RENAME COLUMN "assigned_by" TO "created_by";--> statement-breakpoint
